@@ -1,0 +1,66 @@
+import 'package:flutter/material.dart';
+
+double width(BuildContext context) =>
+      MediaQuery.of(context).size.width;
+double height(BuildContext context) =>
+      MediaQuery.of(context).size.height;
+
+const double defaultMargin = 24;
+const double defaultRadius = 28;
+
+const double dp2 = 2;
+const double dp4 = 4;
+const double dp6 = 6;
+const double dp8 = 8;
+const double dp10 = 10;
+const double dp12 = 12;
+const double dp14 = 14;
+const double dp16 = 16;
+const double dp18 = 18;
+const double dp20 = 20;
+const double dp22 = 22;
+const double dp24 = 24;
+const double dp26 = 26;
+const double dp28 = 28;
+const double dp30 = 30;
+const double dp32 = 32;
+const double dp34 = 34;
+const double dp36 = 36;
+const double dp38 = 38;
+const double dp40 = 40;
+const double dp42 = 42;
+const double dp44 = 44;
+const double dp46 = 46;
+const double dp48 = 48;
+const double dp50 = 50;
+const double dp55 = 55;
+const double dp60 = 60;
+const double dp65 = 65;
+const double dp70 = 70;
+const double dp75 = 75;
+const double dp80 = 80;
+const double dp100 = 100;
+const double dp108 = 108;
+const double dp110 = 110;
+const double dp125 = 125;
+const double dp150 = 150;
+const double dp170 = 170;
+const double dp175 = 175;
+const double dp180 = 180;
+const double dp200 = 200;
+const double dp211 = 211;
+const double dp214 = 214;
+const double dp220 = 220;
+const double dp250 = 250;
+const double dp256 = 256;
+const double dp291 = 291;
+const double dp300 = 300;
+const double dp323 = 323;
+const double dp400 = 400;
+const double dp450 = 450;
+const double dp500 = 500;
+const double dp600 = 600;
+const double dp700 = 700;
+const double dp800 = 800;
+const double dp900 = 900;
+const double dp1000 = 1000;
